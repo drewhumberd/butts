@@ -1,7 +1,7 @@
 // This is a comment!
 /*
 
-Something
+Something else
 
 */
 var good = 1;
@@ -50,8 +50,7 @@ for (let i = 0; i < listOfStuff.length; i++) {
 
 listOfStuff.map (function(value, x) {
 	// console.log (value, x);
-}
-)
+})
 
 function bunchOfButts (howManyButts) {
 console.log ("You have " + howManyButts + " butts.")
@@ -73,3 +72,4 @@ function modifyLifeTotal (lifenumber) {
 
 displayLifeTotal ();
 
+// butts forever
